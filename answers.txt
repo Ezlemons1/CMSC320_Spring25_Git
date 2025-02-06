@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 Answer: Git is useful for tracking the updates and changes you make to your project files, as well as being streamlined
 and efficient for collaborative work, crucial for project development.
+
+Q2: What field could data science be applied to? Give an Example.
+Answer: Data science could definitely be applied to the artificial intelligence field. It could also
+be applied to data analytics, finance, and language processing.
