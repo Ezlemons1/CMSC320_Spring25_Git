@@ -5,3 +5,7 @@ and efficient for collaborative work, crucial for project development.
 Q2: What field could data science be applied to? Give an Example.
 Answer: Data science could definitely be applied to the artificial intelligence field. It could also
 be applied to data analytics, finance, and language processing.
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: While merging applies the changes made on a specific branch onto the current branch, rebasing will take the
+changes we make on another branch and replicate, or replay, those changes on the current branch.
