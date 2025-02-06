@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+Answer: Data science could definitely be applied to the artificial intelligence field. It could also
+be applied to data analytics, finance, and language processing.
