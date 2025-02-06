@@ -9,3 +9,7 @@ be applied to data analytics, finance, and language processing.
 Q3: What is the difference between Merging and Rebasing?
 Answer: While merging applies the changes made on a specific branch onto the current branch, rebasing will take the
 changes we make on another branch and replicate, or replay, those changes on the current branch.
+
+Q4: What are you looking forward to this semester?
+Answer: I am most looking forward to understanding new platforms, such as Pandas and Scikit-Learn, and being able to
+apply these platforms to my independent projects.
